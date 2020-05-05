@@ -14,7 +14,7 @@
     "grunt": "latest",
     "grunt-cli": "latest",
     "grunt-env": "latest",
-    "forever": "0.10.9",
+    "forever": "0.15.3",
     "helmet": "~0.1.2",
     "serve-favicon": "^2.2.0",
     "body-parser": "^1.10.2",
